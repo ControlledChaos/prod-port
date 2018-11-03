@@ -1,4 +1,4 @@
-# Production Portfolios Base
+# Production Portfolios
 
 Base functionality for the Production Portfolios project.
 
