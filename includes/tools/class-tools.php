@@ -10,6 +10,9 @@
  *
  * @todo       Apply a filter to return true or false for
  *             hiding the Development Tools admin page.
+ *
+ * @todo       Remove unnecessary tools when development
+ *             is further along.
  */
 
 namespace CC_Plugin\Includes\Tools;
